@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Federico</h1>
 <h3 align="center">A passionate Python developer / Data Engineer from Argentina</h3>
 
-- 🔭 I’m currently working on **Colektia**
-
 - 🌱 I’m currently learning **FastApi, Docker, Python, Blender**
 
 - 👯 I’m looking to collaborate on **Python project**
